@@ -25,6 +25,7 @@
 		<div class="prom">
 			<h1 class="colorlog">Регистрация</h1>
 			<input class="input" type="text" placeholder="Имя Пользователя" />
+			<input class="input" type="text" placeholder="Номер подразделеня" />
 			<input class="input" type="password" placeholder="Введите Пароль" id="myInput" />
 			<input class="input" id="myInput" type="password" placeholder="Подтвердите Пароль" />
 			<span class="check-pass">
